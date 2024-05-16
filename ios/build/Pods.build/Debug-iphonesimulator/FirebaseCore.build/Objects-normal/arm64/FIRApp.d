@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentContainerInternal.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRConfigurationInternal.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/FIRFirebaseUserAgent.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRCoreDiagnosticsConnector.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRHeartbeatInfo.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLogger.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULAppDelegateSwizzler.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULApplication.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULSceneDelegateSwizzler.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULMutableDictionary.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetwork.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkConstants.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkLoggerProtocol.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkMessageCode.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkURLSession.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/Reachability/Public/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h

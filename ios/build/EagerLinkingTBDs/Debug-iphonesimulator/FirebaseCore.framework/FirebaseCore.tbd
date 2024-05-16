@@ -1,0 +1,138 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_kFIRIsAnalyticsEnabled",
+            "_kFirebaseCoreErrorDomain",
+            "_kFIRAppDeleteNotification",
+            "_kFIRGoogleAppID",
+            "_kFIRExceptionBadModification",
+            "_kFIRGlobalAppDataCollectionEnabledPlistKey",
+            "_FIRAuthStateDidChangeInternalNotification",
+            "_kFIRServiceMeasurement",
+            "_kFIRServiceAuthUI",
+            "_kFIRLoggerForceSDTERRApplicationArgument",
+            "_kFIRServiceInstanceID",
+            "_kFIRServiceStorage",
+            "_kFIRServiceFunctions",
+            "_kFIRIsMeasurementEnabled",
+            "_kFIRLibraryVersionID",
+            "_kFIRBundleID",
+            "_kFIRLoggerAnalytics",
+            "_kFIRAndroidClientID",
+            "_kFIRServiceDynamicLinks",
+            "_FIRAuthStateDidChangeInternalNotificationTokenKey",
+            "_kFIRPersistedDebugModeKey",
+            "_kFIRAppDiagnosticsConfigurationTypeKey",
+            "_kGGLServiceSignIn",
+            "_kFIRDisableDebugModeApplicationArgument",
+            "_kFIRServiceRemoteConfig",
+            "_kFIRIsSignInEnabled",
+            "_kFIRAppDiagnosticsApplePlatformPrefix",
+            "_FIRAuthStateDidChangeInternalNotificationAppKey",
+            "_kFIRGoogleAppIDKey",
+            "_kFIRServiceAdMob",
+            "_kFIRServiceAuth",
+            "_FIRAuthStateDidChangeInternalNotificationUIDKey",
+            "_kFIRProjectID",
+            "_kFIRAppNameKey",
+            "_kFIRAppDiagnosticsFIRAppKey",
+            "_kFIRServiceInvites",
+            "_kFIRAppReadyToConfigureSDKNotification",
+            "_kFIRAppDiagnosticsSDKVersionKey",
+            "_kFirebaseCoreDefaultsSuiteName",
+            "_kFIRIsAnalyticsCollectionEnabled",
+            "_kFIRLoggerRemoteConfig",
+            "_kFIREnableDebugModeApplicationArgument",
+            "_FIRCoreDiagnosticsImplementation",
+            "_kFIRDefaultAppName",
+            "_kFIRLoggerCrash",
+            "_FirebaseCoreVersionString",
+            "_kFIRServiceFirestore",
+            "_kFIRClientID",
+            "_kFIRAppIsDefaultAppKey",
+            "_kFIRLoggerCore",
+            "_kFIRTrackingID",
+            "_kFIRGCMSenderID",
+            "_kFIRGlobalAppDataCollectionEnabledDefaultsKeyFormat",
+            "_kFIRAppDiagnosticsSDKNameKey",
+            "_kServiceInfoFileName",
+            "_kFIRAPIKey",
+            "_kFIRDatabaseURL",
+            "_kFIRServiceDatabase",
+            "_kFIRServiceCrash",
+            "_FirebaseCoreVersionNumber",
+            "_kServiceInfoFileType",
+            "_kFIRAppDiagnosticsErrorKey",
+            "_kFIRServicePerformance",
+            "_kFIRServiceMessaging",
+            "_kFIRStorageBucket",
+            "_kFIRIsAnalyticsCollectionDeactivated",
+            "_kGGLServiceAnalytics"
+          ],
+          "objc_class": [
+            "PodsDummy_FirebaseCore",
+            "FIROptions",
+            "FIRHeartbeatInfo",
+            "FIRConfiguration",
+            "FIRLoggerWrapper",
+            "FIRBundleUtil",
+            "FIRComponentType",
+            "FIRFirebaseUserAgent",
+            "FIRComponent",
+            "FIRHeartbeatLogger",
+            "FIRApp",
+            "FIRComponentContainer",
+            "FIRAnalyticsConfiguration",
+            "FIRDependency",
+            "FIRDiagnosticsData",
+            "FIRCoreDiagnosticsConnector"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FIRSetAnalyticsDebugMode",
+            "_FIRLogDebug",
+            "_FIRLogError",
+            "_FIRLoggerInitializeASL",
+            "_FIRHeaderValueFromHeartbeatsPayload",
+            "_FIRSetLoggerUserDefaults",
+            "_FIRLogNotice",
+            "_FIRLogBasic",
+            "_FIRLogInfo",
+            "_FIRLogWarning",
+            "_FIRSetLoggerLevel",
+            "_FIRFirebaseVersion",
+            "_FIRIsLoggableLevel",
+            "_FIRResetLogger"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/FirebaseCore.framework/FirebaseCore"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "9",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

@@ -1,0 +1,55 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_FirebaseCoreDiagnosticsVersionNumber",
+            "_logs_proto_mobilesdk_ios_ICoreConfiguration_fields",
+            "_kFIRCoreDiagnosticsHeartbeatDateFileName",
+            "_FirebaseCoreDiagnosticsVersionString"
+          ],
+          "objc_class": [
+            "FIRCoreDiagnostics",
+            "PodsDummy_FirebaseCoreDiagnostics",
+            "FIRCoreDiagnosticsLog"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FIRPopulateProtoWithInfoFromUserInfoParams",
+            "_FIRPopulateProtoWithInfoPlistValues",
+            "_FIRMapFromServiceStringToTypeEnum",
+            "_FIRPopulateProtoWithInstalledServices",
+            "_FIREncodeData",
+            "_FIRPopulateProtoWithCommonInfoFromApp",
+            "_FIREncodeString"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/FirebaseCoreDiagnostics.framework/FirebaseCoreDiagnostics"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "9",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

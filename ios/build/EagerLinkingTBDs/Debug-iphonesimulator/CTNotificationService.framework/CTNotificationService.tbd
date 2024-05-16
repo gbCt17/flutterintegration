@@ -1,0 +1,34 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_CTNotificationServiceVersionNumber",
+            "_CTNotificationServiceVersionString"
+          ],
+          "objc_class": [
+            "PodsDummy_CTNotificationService",
+            "CTNotificationServiceExtension"
+          ]
+        }
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/CTNotificationService.framework/CTNotificationService"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "10",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

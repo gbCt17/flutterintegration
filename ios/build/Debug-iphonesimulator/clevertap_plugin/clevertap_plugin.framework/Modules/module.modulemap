@@ -1,0 +1,6 @@
+framework module clevertap_plugin {
+  umbrella header "clevertap_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}

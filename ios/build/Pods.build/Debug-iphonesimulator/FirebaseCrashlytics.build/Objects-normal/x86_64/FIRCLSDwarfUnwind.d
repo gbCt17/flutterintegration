@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCrashlytics.build/module.modulemap \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfUnwind.c \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfUnwind.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSThreadState.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfUnwindRegisters.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFeatures.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSDefines.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDataParsing.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Dwarf/FIRCLSDwarfExpressionMachine.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/FIRCLSUnwind_arch.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Unwind/Compact/FIRCLSCompactUnwind.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSUtility.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSGlobals.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSContext.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSBinaryImage.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSFile.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Shared/FIRCLSMachO/FIRCLSMachO.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSHost.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Components/FIRCLSUserLogging.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSException.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSMachException.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Handlers/FIRCLSSignal.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSAllocate.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/Crashlytics/Helpers/FIRCLSInternalLogging.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCrashlytics/Crashlytics/third_party/libunwind/dwarf.h

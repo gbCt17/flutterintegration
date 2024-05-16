@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/build/Pods.build/Debug-iphonesimulator/FirebaseMessaging.build/module.modulemap \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenFetchOperation.m \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenFetchOperation.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingTokenOperation.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingCode.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingConstants.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingDefines.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingLogger.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/FIRMessagingUtilities.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/NSError+FIRMessaging.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseMessaging/Sources/Token/FIRMessagingCheckinPreferences.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRComponent.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRCoreDiagnosticsConnector.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRDependency.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRHeartbeatInfo.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIRLogger.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/FirebaseMessaging/FirebaseCore/Extension/FIROptionsInternal.h

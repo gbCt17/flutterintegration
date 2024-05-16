@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/build/Pods.build/Debug-iphonesimulator/clevertap_plugin.build/module.modulemap \
+  /Users/gaurav.bhoyar/.pub-cache/hosted/pub.dev/clevertap_plugin-2.4.0/ios/Classes/CleverTapPlugin.m \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/Target\ Support\ Files/clevertap_plugin/clevertap_plugin-prefix.pch \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/build/Pods.build/Debug-iphonesimulator/CleverTap-iOS-SDK.build/module.modulemap \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/Target\ Support\ Files/CleverTap-iOS-SDK/CleverTap-iOS-SDK-umbrella.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/ProductExperiences/CTVar.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+SSLPinning.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+Inbox.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapInstanceConfig.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapBuildInfo.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapEventDetail.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapInAppNotificationDelegate.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapSyncDelegate.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapTrackedViewController.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapUTMDetail.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapJSInterface.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+DisplayUnit.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+FeatureFlags.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+ProductConfig.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapPushNotificationDelegate.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTapURLDelegate.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+InAppNotifications.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+SCDomain.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+PushPermission.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/InApps/CTLocalInApp.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/CleverTap+CTVar.h \
+  /Users/gaurav.bhoyar/FlutterProject/clevertap-flutter-integration-CT-Flutter-Integration/ios/Pods/CleverTap-iOS-SDK/CleverTapSDK/LeanplumCT.h \
+  /Users/gaurav.bhoyar/.pub-cache/hosted/pub.dev/clevertap_plugin-2.4.0/ios/Classes/CleverTapPlugin.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/gaurav.bhoyar/FlutterSDk/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h
